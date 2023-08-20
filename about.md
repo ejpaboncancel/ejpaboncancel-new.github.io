@@ -6,5 +6,9 @@ permalink: /about/
 
 {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+I am Eric J. Pabón Cancel, current Mathematics Ph.D. student at <a href="https://www.purdue.edu">Purdue University</a>. I am a former Research Intern 
+at the 2023 MIT Lincoln Laboratory Summer Research Program, researching Machine Learning and Mathematical Algorithms under Group 39 of Division 3, as part of the 
+<a href="https://www.gemfellowship.org">National GEM Consortium</a> Fellowship Employer Internship. I earned my Bachelor of Science degree in Mathematics at the 
+University of Puerto Rico, Mayagüez Campus <a href="https://www.uprm.edu/portada/">(UPRM)</a>. Some of my hobbies include origami, watching movies, enjoying nature, 
+and playing percussion instruments. If you have any questions, feel free to contact me through email.
 
