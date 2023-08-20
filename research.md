@@ -17,4 +17,4 @@ permalink: /research/
 ### Writings and Contributions:
 
 1. **A Model for a One-Hour Workshop on Mentoring**. P.E. Harris, Z. Markman, L. Martinez, A. Mock, E.J. Pabón-Cancel, A. Verga, and S. Wang. <br>
-   <a href="http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=782706&p=18&ver=html5"> MAA Focus, 43(1):18-21, 2023. <a/>
+   <a href="http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=782706&p=18&ver=html5"> MAA Focus, **43**(1):18-21, 2023. <a/>
